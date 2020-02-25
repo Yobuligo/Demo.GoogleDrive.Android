@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo.GoogleDrive</string>
+    <string name="open_btn">Open</string>
+    <string name="create_btn">Create</string>
+    <string name="query_btn">Query</string>
+    <string name="save_btn">Save</string>
+    <string name="text_file_title">File Title</string>
+    <string name="text_doc_content">Doc Content</string>
+</resources>
